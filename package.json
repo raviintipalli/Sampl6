@@ -1,0 +1,22 @@
+{
+  "name": "testproject",
+  "version": "0.0.1",
+  "description": "ff",
+  "main": "sample.js",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "f"
+  },
+  "repository": {
+    "type": "git",
+    "url": "f"
+  },
+  "keywords": [
+    "f"
+  ],
+  "author": "f",
+  "license": "ISC"
+}
